@@ -32,9 +32,9 @@ The version numbers of this project conform to [Semantic Versioning 2.0](http://
 
 * 1.0.0 (2013-08-20): Initial release.
 
-## Contact
+## Author
 
-E-mail [Benjamin Esham](mailto:benjamin@bdesham.info) with questions or comments.
+Pluralize was created by [Benjamin Esham](http://esham.io).
 
 This project is [hosted on GitHub](https://github.com/bdesham/pluralize). Please feel free to submit issues and pull requests.
 
