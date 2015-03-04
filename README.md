@@ -4,9 +4,13 @@ A [Liquid](http://www.liquidmarkup.org/) filter to make it easy to form correct 
 
 At some point, every programmer has had to display a count of objects, like “36 pages” or “1 message”. This Liquid filter makes it easier to form these plurals correctly—no more taking the lazy way out and writing `{{ number }} message(s)`! (Or worse, assuming that the number will be greater than one.)
 
-## Installation and usage
+## Installation
 
-To use this plugin with [Jekyll](http://jekyllrb.com/), copy `pluralize.rb` to your `_plugins` folder.
+If you’re using Jekyll, see the Jekyll [documentation on installing plugins](http://jekyllrb.com/docs/plugins/#installing-a-plugin) for installation instructions.
+
+If you’re using Liquid without Jekyll, install the `liquid_pluralize` Gem and then… I’m not sure.
+
+## Usage
 
 The sole provided function is `pluralize`. It can be used in one of two ways:
 
