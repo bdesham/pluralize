@@ -6,9 +6,9 @@ At some point, every programmer has had to display a count of objects, like “3
 
 ## Installation
 
-If you’re using Jekyll, see the Jekyll [documentation on installing plugins](http://jekyllrb.com/docs/plugins/#installing-a-plugin) for installation instructions.
+The easiest way to install this plugin is with RubyGems: `gem install liquid_pluralize`.
 
-If you’re using Liquid without Jekyll, install the `liquid_pluralize` Gem and then… I’m not sure.
+If you’re using Jekyll, see the Jekyll [documentation on installing plugins](http://jekyllrb.com/docs/plugins/#installing-a-plugin) for more-detailed installation instructions.
 
 ## Usage
 
@@ -37,7 +37,7 @@ The version numbers of this project conform to [Semantic Versioning 2.0](http://
 
 Pluralize was created by [Benjamin Esham](http://esham.io).
 
-This project is [hosted on GitHub](https://github.com/bdesham/pluralize). Please feel free to submit issues and pull requests.
+This project is [hosted on GitHub](https://github.com/bdesham/pluralize). Please feel free to submit pull requests.
 
 ## License
 
