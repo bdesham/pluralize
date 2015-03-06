@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
 
 	s.files				= ['lib/liquid_pluralize.rb']
 
-	s.add_runtime_dependency('liquid', '~> 2.6')
+	s.add_runtime_dependency('liquid', ['>= 2.6', '< 4.0'])
 end
