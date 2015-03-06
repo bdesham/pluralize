@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 	s.name				= 'liquid_pluralize'
-	s.version			= '1.0.1'
-	s.date				= '2015-03-04'
+	s.version			= '1.0.2'
+	s.date				= '2015-03-06'
 
 	s.author			= 'Benjamin Esham'
 	s.email				= 'benjamin@esham.io'
