@@ -1,7 +1,7 @@
 module Pluralize
 
 	def pluralize(number, singular, plural = nil)
-		number = number.to_i
+		number = number.to_f
 		if number == 1
 			"#{number} #{singular}"
 		elsif plural.nil?
