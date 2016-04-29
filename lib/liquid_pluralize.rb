@@ -1,3 +1,9 @@
+# pluralize
+#
+# A Liquid filter to make it easy to form correct plurals.
+#
+# https://github.com/bdesham/pluralize
+
 module Pluralize
 
 	def pluralize(number, singular, plural = nil)

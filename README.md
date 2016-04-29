@@ -26,6 +26,12 @@ The sole provided function is `pluralize`. It can be used in one of two ways:
 
   will output “0 culs-de-sac”, “1 cul-de-sac”, “17 culs-de-sac”, etc.
 
+## Author
+
+This script was written by [Benjamin Esham](https://esham.io).
+
+This project is [hosted on GitHub](https://github.com/bdesham/pluralize). Please feel free to submit pull requests.
+
 ## Version history
 
 The version numbers of this project conform to [Semantic Versioning 2.0](http://semver.org/).
@@ -34,12 +40,6 @@ The version numbers of this project conform to [Semantic Versioning 2.0](http://
 * 1.0.1 (2015-03-04): Correctly handle the number 1 when it is given in string form. Don’t refer to Jekyll in the code itself.
 * 1.0.0 (2013-08-20): Initial release.
 
-## Author
-
-Pluralize was created by [Benjamin Esham](http://esham.io).
-
-This project is [hosted on GitHub](https://github.com/bdesham/pluralize). Please feel free to submit pull requests.
-
 ## License
 
-This script is hereby released into the public domain. To the extent possible, the author places no restrictions upon its use, modification, or redistribution.
+This project is released into the public domain via the Unlicense, which you can find in the file LICENSE.md.
