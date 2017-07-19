@@ -36,6 +36,7 @@ This project is [hosted on GitHub](https://github.com/bdesham/pluralize). Please
 
 The version numbers of this project conform to [Semantic Versioning 2.0](http://semver.org/).
 
+* 1.0.3 (2017-07-19): This Gem works with Liquid 4.x too.
 * 1.0.2 (2015-03-06): This Gem works with Liquid 3.x too and the dependencies should reflect that. Thanks to [Aidan Feldman](https://github.com/afeld) for verifying 3.x support and submitting the pull request.
 * 1.0.1 (2015-03-04): Correctly handle the number 1 when it is given in string form. Don’t refer to Jekyll in the code itself.
 * 1.0.0 (2013-08-20): Initial release.

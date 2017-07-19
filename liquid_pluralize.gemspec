@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 	s.name				= 'liquid_pluralize'
-	s.version			= '1.0.2'
-	s.date				= '2015-03-06'
+	s.version			= '1.0.3'
+	s.date				= '2017-07-19'
 
 	s.author			= 'Benjamin Esham'
 	s.email				= 'benjamin@esham.io'
@@ -13,5 +13,5 @@ Gem::Specification.new do |s|
 
 	s.files				= ['lib/liquid_pluralize.rb']
 
-	s.add_runtime_dependency('liquid', ['>= 2.6', '< 4.0'])
+	s.add_runtime_dependency('liquid', ['>= 2.6', '< 5.0'])
 end
