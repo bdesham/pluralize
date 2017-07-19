@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
 	s.author			= 'Benjamin Esham'
 	s.email				= 'benjamin@esham.io'
 	s.homepage		= 'https://github.com/bdesham/pluralize'
-	s.license			= 'Public domain'
+	s.license			= 'Unlicense'
 
 	s.summary			= 'A Liquid filter to make it easy to form correct plurals.'
 	s.description	= 'Pluralize is a Liquid filter to make it easy to form correct plurals.'
